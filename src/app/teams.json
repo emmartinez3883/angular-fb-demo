@@ -1,0 +1,22 @@
+[
+    {
+        "teamName": "Ericks Team",
+        "teamManager": "Erick",
+        "teamDept": {
+            "deptHead": "Chato",
+            "deptName": "E Commerce"
+        },
+        "employees": [
+            {
+                "empId": "101",
+                "empName": "Jaz",
+                "skill": "Java"
+            },
+            {
+                "empId": "111",
+                "empName": "Eli",
+                "skill": "Angular"
+            }
+        ]
+    }
+]
